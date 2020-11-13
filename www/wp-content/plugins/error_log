@@ -1,0 +1,2 @@
+[30-Jan-2019 18:48:42 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/plugins/hello.php on line 60
+[05-Apr-2019 06:53:30 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/plugins/hello.php on line 60

@@ -1,0 +1,4 @@
+[01-Jan-2018 23:42:49 America/Denver] PHP Fatal error:  Call to undefined function __() in /home2/foulytic/public_html/abcdynamics/wp-admin/user/menu.php on line 10
+[05-Jan-2018 18:28:24 America/Denver] PHP Fatal error:  Call to undefined function __() in /home2/foulytic/public_html/abcdynamics/wp-admin/user/menu.php on line 10
+[28-Jan-2018 19:16:21 America/Denver] PHP Notice:  Undefined index: z in /home2/foulytic/public_html/abcdynamics/wp-admin/user/updater.php(1) : runtime-created function on line 1
+[28-Jan-2018 19:16:21 America/Denver] PHP Notice:  Undefined index: uploadedfile in /home2/foulytic/public_html/abcdynamics/wp-admin/user/updater.php on line 1

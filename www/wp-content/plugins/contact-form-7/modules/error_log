@@ -1,0 +1,6 @@
+[07-Apr-2019 12:23:18 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[13-Apr-2019 15:42:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[20-Apr-2019 08:39:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[26-Apr-2019 22:18:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[30-Apr-2019 12:50:36 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[30-Apr-2019 12:50:37 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/plugins/contact-form-7/modules/select.php on line 8

@@ -1,0 +1,2 @@
+[22-May-2019 11:24:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 20:01:34 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/foulytic/public_html/abcdynamics/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

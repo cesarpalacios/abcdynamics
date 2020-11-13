@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+
+  mariadb:
+    image: mariadb:10.5.8
+    container_name: bd
+    environment:
+      MYSQL_ROOT_PASSWORD: c3s4r_p4l4c10s
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./bd:/var/lib/mysql
+
+  web:
+    image: php:7.3-apache
+    container_name: web 
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    volumes:
+      - ./www:/var/www/html
+    links:
+      - mariadb
+
+  #phpmyadmin:
+  #  image: phpmyadmin:5.0.4
+  #  restart: always
+  #  ports:
+  #    - 8080:80
+  #  environment:
+  #    - PMA_ARBITRARY=1
+  #  links:
+  #    - mariadb
